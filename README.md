@@ -6,7 +6,7 @@
  
  💞️ I’m looking to collaborate on various Data Science, Machine Learning and Deep Leaning project.
   
- [![alt text](./images/gmail.png)](mailto:shubhambhole81@gmail.com)  [![alt text](./images/linkedin.png)](https://www.linkedin.com/in/shubhambhole/)
+    [![alt text](./images/gmail.png)](mailto:shubhambhole81@gmail.com)           [![alt text](./images/linkedin.png)](https://www.linkedin.com/in/shubhambhole/)
 
 
 <!---
