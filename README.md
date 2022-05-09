@@ -1,12 +1,9 @@
-<h1><b>👋 Hi, I’m Shubham Mahesh Bhole.</b></h1>
-   <h2><b>Welcome to my Github Profile.</b></h2>
+<h1><b>👋 Hi, I’m Shubham Mahesh Bhole.</b></h1> 
+<h2><b>Welcome to my Github Profile!</b></h2>
+     
+ 💼 **_Data Science, Exploratory Data Analysis, Machine Learning, Deep Learning, Computer vision and Natural language Processing._**
  
-      
- 👀 I’m interested in Python, MS Excel, EDA, Tableau, MySQL, Machine Learning, Tensorflow, OpenCV, Flask and many more to learn.
- 
- 🌱 I’m currently learning skills required in the data field in IT Industry.
- 
- 💞️ I’m looking to collaborate on various Data Science, Machine Learning and Deep Leaning project.
+ 📭 Connect with me at⬇️ :
  
   [![Mail](./images/gmail.png)](mailto:shubhambhole81@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin](./images/linkedin.png)](https://www.linkedin.com/in/shubhambhole/)
   
