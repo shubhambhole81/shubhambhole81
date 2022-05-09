@@ -9,6 +9,8 @@
   [![alt text](./images/gmail.png)](mailto:shubhambhole81@gmail.com)
   
   [![alt text](./images/linkedin.png)](https://www.linkedin.com/in/shubhambhole/)
+  
+ <a href="https://www.linkedin.com/in/shubhambhole/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/importdata"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 
 
 <!---
