@@ -3,7 +3,7 @@
      
  💼 **_Data Science, Exploratory Data Analysis, Machine Learning, Deep Learning, Computer vision and Natural language Processing._**
  
- 📭 Connect with me at ⬇️
+ 📭 **Connect with me at** ⬇️
  
   [![Mail](./images/gmail.png)](mailto:shubhambhole81@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin](./images/linkedin.png)](https://www.linkedin.com/in/shubhambhole/)
   
