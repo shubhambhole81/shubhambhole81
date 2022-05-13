@@ -5,7 +5,7 @@
  
  📭 **Connect with me** ⬇️
  
-  [![Mail](./images/gmail.png)](mailto:shubhambhole81@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin](./images/linkedin.png)](https://www.linkedin.com/in/shubhambhole/)&nbsp;&nbsp;&nbsp;&nbsp;[![Medium](./images/Medium.png)](https://medium.com/@shubhambhole81)
+  [![Mail](./images/gmail.png)](mailto:shubhambhole81@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin](./images/linkedin.png)](https://www.linkedin.com/in/shubhambhole/)&nbsp;&nbsp;&nbsp;[![Medium](./images/Medium.png)](https://medium.com/@shubhambhole81)
   
   
 <!---
