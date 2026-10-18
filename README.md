@@ -3,7 +3,7 @@
      
  💼 **_QA Automation Engineer | 4 Years of Experience | Selenium • Java • API Testing • Database Testing_**
 
-Passionate about building reliable test automation frameworks, improving testing efficiency, and delivering high-quality software through smart automation and quality engineering.
+Passionate about building reliable test automation frameworks, improving testing efficiency, and delivering high-quality software through smart automation and quality engineering, along with harnessing the power of AI.
  
  📭 **To Connect with me** ⬇️
  
