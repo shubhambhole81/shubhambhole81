@@ -12,17 +12,17 @@ Passionate about building reliable test automation frameworks, improving testing
  -->
 
 <a href="https://www.linkedin.com/in/shubhambhole/" target="_blank">
-  <img src="./images/Linkedin.jpg"
+  <img src="./images/Linkedin.png"
        alt="LinkedIn"
        title="Connect with me on LinkedIn"
-       width="40">
+       width="100">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@shubhambhole81" target="_blank">
-  <img src="./images/Medium.jpg"
+  <img src="./images/Medium.png"
        alt="Medium"
        title="Read my articles on Medium"
-       width="40">
+       width="35">
 </a>
   
   
