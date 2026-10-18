@@ -19,10 +19,10 @@ Passionate about building reliable test automation frameworks, improving testing
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@shubhambhole81" target="_blank">
-  <img src="./images/Medium.png"
+  <img src="./images/Medium.jpg"
        alt="Medium"
        title="Read my articles on Medium"
-       width="35">
+       width="110">
 </a>
   
   
